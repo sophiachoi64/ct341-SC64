@@ -1,1 +1,10 @@
-
+    h1, h2 {
+      font-family: 'Anton', sans-serif;
+      font-size: 30px;
+      color:#00008B
+    }
+    p, a {
+      font-family: 'Anton', sans-serif;
+      font-size: 14px;
+      color:#696969
+    }
