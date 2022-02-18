@@ -1,13 +1,17 @@
-/* Typography */    
+/* Typography */
+
+body {
+  font-family: 'Anton', sans-serif;
+  font-size: 14px;
+  color: #696969
+}
+
 h1, h2 {
-      font-family: 'Anton', sans-serif;
-      font-size: 30px;
-      color:#00008B
-    }
-    p, a {
-      font-family: 'Anton', sans-serif;
-      font-size: 14px;
-      color:#696969
-    }
-/* Layout */    
-/* Media */  
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  color: #00008B
+}
+
+
+/* Layout */
+/* Media */
